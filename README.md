@@ -9,4 +9,4 @@ Stack/skills:
 
 Проекты
 
-Анализ зарплат на hh.ru
+Анализ зарплат на hh.ru https://github.com/amphitrity/salariesanalysys/tree/main
